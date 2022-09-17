@@ -1,0 +1,2 @@
+# VertexSymmetrizer
+Blender Addon
